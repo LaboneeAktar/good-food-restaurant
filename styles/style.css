@@ -94,7 +94,7 @@
   height: 300px;
 }
 
-.about-us .about-title {
+.about-title {
   color: rgb(16, 16, 16);
   font-family: Work Sans;
   font-size: 28px;
@@ -105,7 +105,7 @@
   margin-bottom: 20px;
 }
 
-.about-us .about-subtitle {
+.about-subtitle {
   color: rgb(16, 16, 16);
   font-family: Work Sans;
   font-size: 14px;
@@ -233,4 +233,13 @@
 
 .card-details {
   margin-left: 38%;
+}
+
+.footer {
+  /* margin-bottom: 80px; */
+  background-image: url(../assets/social-bg.png);
+}
+
+.footer-items {
+  padding: 130px 300px;
 }
